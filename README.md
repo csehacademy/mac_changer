@@ -3,7 +3,7 @@
 You can use the help command to get information about the tool.
 
 ```sh
-sudo python3 mac_changer.py --help 
+python3 mac_changer.py --help 
 #or use -h command.
 ```
 To use the mac_changer tool, review the command line below
