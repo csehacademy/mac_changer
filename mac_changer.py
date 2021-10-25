@@ -28,8 +28,8 @@ def control_new_mac(interface):
     else:
         return None
 
-print("Mac Changer Started!")
 (user_input,arguments) = get_user_input()
+print("Mac Changer Started!")
 change_mac_adress(user_input.interface,user_input.mac_adress)
 finalized_mac = control_new_mac(str(user_input.interface))
 
