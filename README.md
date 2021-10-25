@@ -9,7 +9,7 @@ sudo python3 mac_changer.py --help
 To use the mac_changer tool, review the command line below
 
 ```sh
-sudo python3 mac_changer.py -i interface -m mac adress
+sudo python3 mac_changer.py -i [interface] -m [mac adress]
 ```
 
 ## License
